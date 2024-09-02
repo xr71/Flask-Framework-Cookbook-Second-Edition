@@ -11,7 +11,7 @@ Flask-Babel==0.12.2
 Flask-SQLAlchemy==2.4.0
 Flask-WTF==0.14.2
 geoip2==2.9.0
-gunicorn==19.9.0
+gunicorn==21.2.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
